@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my page, I'm Patrick👋
 Welcome to my GitHub profile! I'm a data engineer/data scientist passionate about building reliable data pipelines, uncovering insights through analytics, building reliable predictive and generative models, and developing tools that bridge engineering and data science. Here’s a glimpse into my projects and technical skills:
 <!--
 **Patrick-lab-droid/Patrick-lab-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
